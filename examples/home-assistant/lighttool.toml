@@ -1,0 +1,7 @@
+[tool]
+id = "com.thelightphone.homeassistant"
+label = "Home Assistant"
+versionCode = 1
+versionName = "1.0"
+permissions = ["android.permission.INTERNET"]
+serverPackage = "com.lightos"
